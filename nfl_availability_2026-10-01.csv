@@ -1,0 +1,66 @@
+team,player,position,status,source,differs_from_nflverse,note
+ARI,Jacoby Brissett,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+ATL,Michael Penix Jr.,QB,Probable starter (no report yet),"nflverse depth chart; MNF team, no Week 4 report in nflverse file yet",no,First ATL/NO practice report not in file at refresh time.
+BAL,Lamar Jackson,QB,"Probable starter (Limited Wed, back)","NFL.com news roundup 2026-09-30: Minter says Jackson ""dealing with something small""",no,Watch Friday status.
+BAL,Jovaughn Gwyn,C,IR,NFL.com news roundup 2026-09-30,yes,Fractured fibula; nflverse roster_weekly still ACT
+BUF,Josh Allen,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+CAR,Bryce Young,QB,"Probable starter (Full Wed, knee)",NFL.com news roundup 2026-09-30,no,
+CAR,Jaycee Horn,CB,IR,NFL.com news roundup 2026-09-30,no,Torn quad; nflverse already RES
+CAR,Mike Jackson,CB,IR,NFL.com news roundup 2026-09-30,no,Core muscle surgery; nflverse already RES
+CHI,Case Keenum (TBD; Tyson Bagent possible),QB,Probable starter,"ESPN/Yahoo 2026-09-30: Ben Johnson says ""The direction has already been made"" but has not named Keenum or Bagent",yes,Caleb Williams (Grade 2 hamstring) DNP Wed; nflverse depth chart still lists Williams QB1. Keenum started Wk3 win vs PHI.
+CHI,Caleb Williams,QB,Expected Out (DNP),NFL.com 2026-09-30; ESPN/Yahoo,yes,"Grade 2 hamstring, reported 3-4 week timeline; still QB1 on depth chart"
+CHI,Braxton Jones,T,"DNP, week to week",NFL.com news roundup 2026-09-30,no,Knee
+CIN,Joe Burrow,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+CLE,Deshaun Watson,QB,Starter,clevelandbrowns.com / ESPN 2026-10-01,no,Matches depth chart.
+CLE,Elgton Jenkins,C,Out,clevelandbrowns.com 2026-09-30,yes,Concussion; nflverse file has practice status only
+CLE,Teven Jenkins,G,Out,clevelandbrowns.com 2026-09-30,yes,Back; nflverse file has practice status only
+CLE,Tylan Wallace,WR,Out,clevelandbrowns.com 2026-09-30,yes,Knee; nflverse file has practice status only
+DAL,Dak Prescott,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+DEN,Bo Nix,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+DET,Jared Goff,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+GB,Jordan Love,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+GB,Jayden Reed,WR,IR (season-ending neck surgery),NFL.com news roundup 2026-09-30,no,nflverse already RES
+HOU,C.J. Stroud,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+HOU,Nico Collins,WR,Limited Wed (returned),NFL.com news roundup 2026-09-30,no,Hamstring; missed 2 games
+IND,Daniel Jones,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+JAX,Trevor Lawrence,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+KC,Patrick Mahomes,QB,"Probable starter (Full Wed, knee)",NFL.com news roundup 2026-09-30,no,
+KC,Josh Simmons,T,DNP Wed,NFL.com news roundup 2026-09-30,no,Bulging disc; Out Wk3
+LA,Matthew Stafford,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+LA,Puka Nacua,WR,Expected to play,NFL.com news roundup 2026-09-30,no,Hip; was Doubtful Wk3
+LAC,Justin Herbert,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+LV,Kirk Cousins,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+MIA,Malik Willis,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+MIA,De'Von Achane,RB,IR (season-ending ACL),CBS Sports 2026-09-30; Yahoo,no,nflverse already RES
+MIN,Kyler Murray,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+MIN,Justin Jefferson,WR,"DNP Wed, day to day",NFL.com news roundup 2026-09-30,no,Ankle
+NE,Drake Maye,QB,"Probable starter (Full Wed, shoulder)",NFL.com news roundup 2026-09-30,no,
+NE,Christian Gonzalez,CB,DNP Wed,NFL.com news roundup 2026-09-30,no,Shoulder
+NO,Tyler Shough,QB,Probable starter (no report yet),"nflverse depth chart; MNF team, no Week 4 report in nflverse file yet",no,First ATL/NO practice report not in file at refresh time.
+NYG,Jameis Winston,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+NYJ,Geno Smith,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+NYJ,Breece Hall,RB,DNP Wed,NFL.com news roundup 2026-09-30,no,Knee
+PHI,Jalen Hurts,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+PHI,Dallas Goedert,TE,DNP Wed,NFL.com news roundup 2026-09-30,no,Knee; Out Wk3
+PHI,DeVonta Smith,WR,DNP Wed,NFL.com news roundup 2026-09-30,no,Hamstring
+PIT,Aaron Rodgers,QB,Starter,steelers.com Week 4 injury report 2026-10-01,no,Matches depth chart.
+PIT,Joey Porter Jr.,CB,Out (traded to DAL),NFL.com / dallascowboys.com / ESPN: traded to Cowboys for 2028 2nd + 2027 6th,yes,roster_weekly still shows PIT ACT; depth chart already shows DAL LCB1. Wk4 DAL availability unclear.
+PIT,Jalen Ramsey,CB,Questionable,steelers.com Week 4 injury report 2026-10-01,no,Wrist
+PIT,Brandin Echols,CB,No designation (upgraded),@SteelersPRBurt via Steelers Depot 2026-10-01,yes,Concussion; nflverse shows Limited
+PIT,Yahya Black,DL,Questionable,@SteelersPRBurt via Steelers Depot 2026-10-01,yes,"Personal; added game day, not in nflverse injuries file"
+PIT,Rico Dowdle,RB,Out,steelers.com Week 4 injury report 2026-10-01,no,Toe
+SEA,Sam Darnold (unconfirmed),QB,"Probable starter, not announced",seahawks.com Week 4 injury report 2026-09-30: Darnold not listed; pictured at Wed practice,unclear,Drew Lock started Wk3; games.csv lists Lock as Wk4 SEA QB but depth chart lists Darnold. Confirm Friday.
+SEA,Zach Charbonnet,RB,"Designated to return (PUP/IR), eligible Wk5 earliest",Yahoo Sports NFL live 2026-09-30/10-01,no,Not available Wk4
+SF,Brock Purdy,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+SF,Nick Bosa,DE,DNP Wed,NFL.com news roundup 2026-09-30,no,Knee/calf; Out Wk3
+SF,Mike Evans,WR,DNP Wed,NFL.com news roundup 2026-09-30,no,Ribs
+TB,Jalon Daniels,QB,Probable starter,"buccaneers.com injury report 2026-10-01: ""Rookie QB Jalon Daniels will make his first NFL start on Sunday""",yes,Baker Mayfield (dislocated R thumb) DNP; depth chart still lists Mayfield QB1.
+TB,Baker Mayfield,QB,Expected Out (DNP),buccaneers.com 2026-10-01; CBS Sports 2026-09-30,yes,"Dislocated R thumb, several weeks; still QB1 on depth chart"
+TB,Jalen McMillan,WR,IR,NFL.com news roundup 2026-09-30,no,PCL; nflverse already RES
+TB,Chris Godwin Jr.,WR,Full Thu (upgraded from DNP),buccaneers.com 2026-10-01,no,Ankle
+TEN,Cam Ward,QB,Probable starter,nflverse depth chart QB1; not on Week 4 Wed injury report,no,
+WAS,Jayden Daniels or Marcus Mariota (TBD Friday),QB,Undetermined,"commanders.com 2026-09-30 report + AP via click2houston: Quinn ""too early to call"", decision by Friday",unclear,"Daniels (L elbow) Limited Wed/Thu, missed Wk3; Mariota started Wk3. Game in London Sun 9:30 ET. Depth chart lists Daniels."
+WAS,Jayden Daniels,QB,"Limited Wed/Thu, decision Friday",commanders.com Week 4 injury report 2026-09-30,unclear,L elbow; nflverse Wk3 status Out
+WAS,Sam Cosmi,G,Out,commanders.com Week 4 injury report 2026-09-30,no,Concussion/throat
+WAS,Rachaad White,RB,DNP Wed/Thu (no game status yet),commanders.com Week 4 injury report 2026-09-30,no,Shoulder
+WAS,Nick Cross,S,Out,commanders.com Week 4 injury report 2026-09-30,no,Illness

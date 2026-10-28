@@ -1,0 +1,502 @@
+season,week,event_id,commence_time,snapshot,home_team,away_team,market,player,name,point,price
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_pass_yds,Jordan Love,Over,260.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_pass_yds,Jordan Love,Under,260.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_pass_tds,Jordan Love,Over,1.5,1.6329
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_pass_tds,Jordan Love,Under,1.5,2.18
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_pass_yds,Bryce Young,Over,256.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_pass_yds,Bryce Young,Under,256.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_pass_tds,Bryce Young,Over,1.5,1.9615
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_pass_tds,Bryce Young,Under,1.5,1.7812
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Chuba Hubbard,Over,2.5,2.16
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Chuba Hubbard,Under,2.5,1.6494
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Christian Watson,Over,71.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Christian Watson,Under,71.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Christian Watson,Over,4.5,1.8475
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Christian Watson,Under,4.5,1.8929
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Josh Jacobs,Over,2.5,1.9259
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Josh Jacobs,Under,2.5,1.8197
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Tommy Tremble,Over,15.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Tommy Tremble,Under,15.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Josh Jacobs,Over,14.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Josh Jacobs,Under,14.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Tommy Tremble,Over,2.5,2.24
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Tommy Tremble,Under,2.5,1.6024
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,John Metchie III,Over,15.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,John Metchie III,Under,15.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,MarShawn Lloyd,Over,1.5,2.62
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,MarShawn Lloyd,Under,1.5,1.4545
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Tucker Kraft,Over,46.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Tucker Kraft,Under,46.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Tetairoa McMillan,Over,5.5,2.02
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Tetairoa McMillan,Under,5.5,1.7353
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Matthew Golden,Over,4.5,1.8475
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Matthew Golden,Under,4.5,1.8929
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Tetairoa McMillan,Over,74.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Tetairoa McMillan,Under,74.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Jalen Coker,Over,4.5,1.625
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Jalen Coker,Under,4.5,2.2
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Matthew Golden,Over,59.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Matthew Golden,Under,59.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,MarShawn Lloyd,Over,4.5,1.8333
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,MarShawn Lloyd,Under,4.5,1.9259
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Chuba Hubbard,Over,14.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Chuba Hubbard,Under,14.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Darren Waller,Over,19.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Darren Waller,Under,19.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Jalen Coker,Over,62.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_reception_yds,Jalen Coker,Under,62.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Tucker Kraft,Over,4.5,1.8475
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Tucker Kraft,Under,4.5,1.8929
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Darren Waller,Over,2.5,2.16
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,Darren Waller,Under,2.5,1.6494
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,John Metchie III,Over,1.5,1.7692
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_receptions,John Metchie III,Under,1.5,1.9804
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,Bryce Young,Over,9.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,Bryce Young,Under,9.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,MarShawn Lloyd,Over,16.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,MarShawn Lloyd,Under,16.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,Jordan Love,Over,5.5,1.9804
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,Jordan Love,Under,5.5,1.7812
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,Chuba Hubbard,Over,69.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,Chuba Hubbard,Under,69.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,Josh Jacobs,Over,58.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_rush_yds,Josh Jacobs,Under,58.5,1.8772
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Josh Jacobs,Yes,,1.7407
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Chuba Hubbard,Yes,,1.8696
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Christian Watson,Yes,,2.3
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Matthew Golden,Yes,,2.6
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Tetairoa McMillan,Yes,,2.75
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Tucker Kraft,Yes,,2.7
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Jalen Coker,Yes,,2.95
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,MarShawn Lloyd,Yes,,4
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Savion Williams,Yes,,4.3
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Darren Waller,Yes,,4.5
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Tommy Tremble,Yes,,4.8
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Bo Melton,Yes,,6
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Jonnu Smith,Yes,,6
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Bryce Young,Yes,,7.5
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Jordan Love,Yes,,7.5
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Green Bay Defense,Yes,,8.5
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Mitchell Evans,Yes,,9
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Ja'Tavion Sanders,Yes,,9
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Carolina Defense,Yes,,9
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,John Metchie III,Yes,,10
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Kaleb Johnson,Yes,,12
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Brycen Tremayne,Yes,,12
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Pierre Strong,Yes,,12
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Mark Redman,Yes,,15
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Trevor Etienne,Yes,,15
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Josh Whyle,Yes,,15
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Anthony Tyus III,Yes,,16
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,AJ Dillon,Yes,,16
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Coleman Owen,Yes,,17
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,J. Michael Sturdivant,Yes,,17
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,David Moore,Yes,,23
+2026,8,fd36215311,2026-10-30T00:16:00.000Z,2026-10-28T15:13:34+00:00,Green Bay Packers,Carolina Panthers,player_anytime_td,Feleipe Franks,Yes,,31
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_pass_tds,Josh Allen,Over,1.5,1.7576
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_pass_tds,Josh Allen,Under,1.5,2
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_pass_yds,Lamar Jackson,Over,237.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_pass_yds,Lamar Jackson,Under,237.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_pass_tds,Lamar Jackson,Over,1.5,2.04
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_pass_tds,Lamar Jackson,Under,1.5,1.7246
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_pass_yds,Josh Allen,Over,247.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_pass_yds,Josh Allen,Under,247.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Dawson Knox,Over,7.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Dawson Knox,Under,7.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Ty Johnson,Over,15.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Ty Johnson,Under,15.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Ja'Kobi Lane,Over,2.5,1.8197
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Ja'Kobi Lane,Under,2.5,1.9259
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Keon Coleman,Over,2.5,2.14
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Keon Coleman,Under,2.5,1.6579
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,D.J. Moore,Over,4.5,2.16
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,D.J. Moore,Under,4.5,1.6494
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Derrick Henry,Over,1.5,2.48
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Derrick Henry,Under,1.5,1.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Khalil Shakir,Over,3.5,1.6757
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Khalil Shakir,Under,3.5,2.12
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Rashod Bateman,Over,2.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Rashod Bateman,Under,2.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Khalil Shakir,Over,38.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Khalil Shakir,Under,38.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Mark Andrews,Over,3.5,1.9259
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Mark Andrews,Under,3.5,1.8197
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Rashod Bateman,Over,26.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Rashod Bateman,Under,26.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,James Cook,Over,1.5,1.8197
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,James Cook,Under,1.5,1.9259
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Justice Hill,Over,1.5,1.6494
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Justice Hill,Under,1.5,2.16
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Josh Palmer,Over,1.5,2.44
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Josh Palmer,Under,1.5,1.5155
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Justice Hill,Over,10.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Justice Hill,Under,10.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Ja'Kobi Lane,Over,27.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Ja'Kobi Lane,Under,27.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Derrick Henry,Over,6.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Derrick Henry,Under,6.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Dalton Kincaid,Over,46.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Dalton Kincaid,Under,46.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,James Cook,Over,9.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,James Cook,Under,9.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Zay Flowers,Over,5.5,1.7246
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Zay Flowers,Under,5.5,2.04
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Josh Palmer,Over,12.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Josh Palmer,Under,12.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Dawson Knox,Over,1.5,2.52
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Dawson Knox,Under,1.5,1.4878
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Ty Johnson,Over,2.5,2.4
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Ty Johnson,Under,2.5,1.5319
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Mark Andrews,Over,30.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Mark Andrews,Under,30.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,D.J. Moore,Over,54.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,D.J. Moore,Under,54.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Dalton Kincaid,Over,3.5,1.7692
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Dalton Kincaid,Under,3.5,1.9804
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Devontez Walker,Over,4.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Devontez Walker,Under,4.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Keon Coleman,Over,29.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Keon Coleman,Under,29.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Zay Flowers,Over,77.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_reception_yds,Zay Flowers,Under,77.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Devontez Walker,Over,0.5,1.8475
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_receptions,Devontez Walker,Under,0.5,1.8929
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,Josh Allen,Over,35.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,Josh Allen,Under,35.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,Justice Hill,Over,10.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,Justice Hill,Under,10.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,Derrick Henry,Over,82.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,Derrick Henry,Under,82.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,Lamar Jackson,Over,25.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,Lamar Jackson,Under,25.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,James Cook,Over,86.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_rush_yds,James Cook,Under,86.5,1.8772
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Derrick Henry,Yes,,1.4167
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Josh Allen,Yes,,1.5882
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,James Cook,Yes,,1.6061
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Zay Flowers,Yes,,2.55
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,D.J. Moore,Yes,,3
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Mark Andrews,Yes,,3.1
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Dalton Kincaid,Yes,,3.1
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Khalil Shakir,Yes,,3.3
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Lamar Jackson,Yes,,3.8
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Ja'Kobi Lane,Yes,,4.3
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Rashod Bateman,Yes,,4.7
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Keon Coleman,Yes,,5.1
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Justice Hill,Yes,,6
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Dawson Knox,Yes,,7
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Ty Johnson,Yes,,7.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Josh Palmer,Yes,,7.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Baltimore Defense,Yes,,8.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Buffalo Defense,Yes,,8.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Ray Davis,Yes,,9.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Nick Vannett,Yes,,10.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Josh Cuevas,Yes,,10.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Devontez Walker,Yes,,10.5
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Matthew Hibner,Yes,,12
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Skyler Bell,Yes,,12
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Jackson Hawes,Yes,,14
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Keleki Latu,Yes,,14
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Rasheen Ali,Yes,,17
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Greg Dortch,Yes,,19
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,Elijah Sarratt,Yes,,20
+2026,8,fd36215313,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Buffalo Bills,Baltimore Ravens,player_anytime_td,LaJohntay Wester,Yes,,20
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_pass_yds,Trevor Lawrence,Over,244.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_pass_yds,Trevor Lawrence,Under,244.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_pass_tds,Daniel Jones,Over,0.5,1.5051
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_pass_tds,Daniel Jones,Under,0.5,2.46
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_pass_yds,Daniel Jones,Over,190.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_pass_yds,Daniel Jones,Under,190.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_pass_tds,Trevor Lawrence,Over,1.5,1.4545
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_pass_tds,Trevor Lawrence,Under,1.5,2.62
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Jakobi Meyers,Over,39.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Jakobi Meyers,Under,39.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Brenton Strange,Over,36.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Brenton Strange,Under,36.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Jonathan Taylor,Over,2.5,1.8197
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Jonathan Taylor,Under,2.5,1.9259
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Brenton Strange,Over,3.5,1.7692
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Brenton Strange,Under,3.5,1.9804
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Bhayshul Tuten,Over,14.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Bhayshul Tuten,Under,14.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Jonathan Taylor,Over,17.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Jonathan Taylor,Under,17.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Tyler Warren,Over,36.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Tyler Warren,Under,36.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Jakobi Meyers,Over,3.5,2.02
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Jakobi Meyers,Under,3.5,1.7353
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Tyler Warren,Over,4.5,2.1
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Tyler Warren,Under,4.5,1.6849
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Parker Washington,Over,65.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_reception_yds,Parker Washington,Under,65.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Parker Washington,Over,4.5,1.7692
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Parker Washington,Under,4.5,1.9804
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Bhayshul Tuten,Over,2.5,2.2
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_receptions,Bhayshul Tuten,Under,2.5,1.625
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Jonathan Taylor,Over,63.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Jonathan Taylor,Under,63.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Bhayshul Tuten,Over,61.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Bhayshul Tuten,Under,61.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Trevor Lawrence,Over,10.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Trevor Lawrence,Under,10.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Chris Rodriguez Jr.,Over,25.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Chris Rodriguez Jr.,Under,25.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Daniel Jones,Over,8.5,1.8772
+2026,8,fd36215317,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Jacksonville Jaguars,Indianapolis Colts,player_rush_yds,Daniel Jones,Under,8.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_pass_tds,Kyler Murray,Over,1.5,2.3
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_pass_tds,Kyler Murray,Under,1.5,1.5747
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_pass_tds,Jared Goff,Over,1.5,1.7812
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_pass_tds,Jared Goff,Under,1.5,1.9615
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_pass_yds,Kyler Murray,Over,224.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_pass_yds,Kyler Murray,Under,224.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_pass_yds,Jared Goff,Over,263.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_pass_yds,Jared Goff,Under,263.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Jahmyr Gibbs,Over,4.5,2.02
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Jahmyr Gibbs,Under,4.5,1.7353
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Jahmyr Gibbs,Over,33.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Jahmyr Gibbs,Under,33.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Amon-Ra St. Brown,Over,6.5,1.7576
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Amon-Ra St. Brown,Under,6.5,2
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Justin Jefferson,Over,5.5,1.6757
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Justin Jefferson,Under,5.5,2.12
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Jordan Addison,Over,3.5,2.24
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Jordan Addison,Under,3.5,1.6024
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Jameson Williams,Over,51.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Jameson Williams,Under,51.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Justin Jefferson,Over,76.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Justin Jefferson,Under,76.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,T.J. Hockenson,Over,38.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,T.J. Hockenson,Under,38.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Sam LaPorta,Over,49.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Sam LaPorta,Under,49.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Amon-Ra St. Brown,Over,75.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Amon-Ra St. Brown,Under,75.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Jordan Addison,Over,37.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_reception_yds,Jordan Addison,Under,37.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Jameson Williams,Over,3.5,2.02
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Jameson Williams,Under,3.5,1.7353
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,T.J. Hockenson,Over,4.5,1.8929
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,T.J. Hockenson,Under,4.5,1.8475
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Sam LaPorta,Over,4.5,1.7692
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_receptions,Sam LaPorta,Under,4.5,1.9804
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_rush_yds,Jahmyr Gibbs,Over,86.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_rush_yds,Jahmyr Gibbs,Under,86.5,1.8772
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Jahmyr Gibbs,Yes,,1.3448
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Aaron Jones,Yes,,2
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Jordan Mason,Yes,,2
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Amon-Ra St. Brown,Yes,,2.3
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Justin Jefferson,Yes,,2.75
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Jameson Williams,Yes,,3
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Sam LaPorta,Yes,,3.3
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,T.J. Hockenson,Yes,,3.6
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Jordan Addison,Yes,,4.1
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Isaac TeSlaa,Yes,,5.1
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Kyler Murray,Yes,,6
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Jauan Jennings,Yes,,7
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Minnesota Defense,Yes,,8.5
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Sione Vaki,Yes,,9
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Tai Felton,Yes,,9
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Gavin Bartholomew,Yes,,10
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Detroit Defense,Yes,,10.5
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Jared Goff,Yes,,12
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Brock Wright,Yes,,12
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Ben Yurosek,Yes,,16
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,DeAndre Carter,Yes,,18
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Tyler Conklin,Yes,,21
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Jackson Meeks,Yes,,21
+2026,8,fd36215318,2026-11-01T18:01:00.000Z,2026-10-28T15:13:34+00:00,Detroit Lions,Minnesota Vikings,player_anytime_td,Tay Martin,Yes,,28
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_pass_tds,Patrick Mahomes,Over,1.5,2.58
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_pass_tds,Patrick Mahomes,Under,1.5,1.4651
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_pass_yds,Bo Nix,Over,206.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_pass_yds,Bo Nix,Under,206.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_pass_yds,Patrick Mahomes,Over,225.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_pass_yds,Patrick Mahomes,Under,225.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_pass_tds,Bo Nix,Over,1.5,2.94
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_pass_tds,Bo Nix,Under,1.5,1.3704
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_receptions,RJ Harvey,Over,3.5,1.9259
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_receptions,RJ Harvey,Under,3.5,1.8197
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_reception_yds,Travis Kelce,Over,48.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_reception_yds,Travis Kelce,Under,48.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_reception_yds,Kenneth Walker III,Over,18.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_reception_yds,Kenneth Walker III,Under,18.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_receptions,Travis Kelce,Over,4.5,1.8333
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_receptions,Travis Kelce,Under,4.5,1.9091
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_reception_yds,Jonah Coleman,Over,8.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_reception_yds,Jonah Coleman,Under,8.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_reception_yds,RJ Harvey,Over,23.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_reception_yds,RJ Harvey,Under,23.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_receptions,Jonah Coleman,Over,1.5,1.6757
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_receptions,Jonah Coleman,Under,1.5,2.12
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_receptions,Kenneth Walker III,Over,3.5,2.4
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_receptions,Kenneth Walker III,Under,3.5,1.5319
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,Kenneth Walker III,Over,84.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,Kenneth Walker III,Under,84.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,Patrick Mahomes,Over,12.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,Patrick Mahomes,Under,12.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,Bo Nix,Over,15.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,Bo Nix,Under,15.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,J.K. Dobbins,Over,25.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,J.K. Dobbins,Under,25.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,Jonah Coleman,Over,38.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_rush_yds,Jonah Coleman,Under,38.5,1.8772
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Kenneth Walker III,Yes,,1.6667
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Travis Kelce,Yes,,3.2
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,J.K. Dobbins,Yes,,3.2
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Jonah Coleman,Yes,,3.2
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Courtland Sutton,Yes,,3.4
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Jaylen Waddle,Yes,,3.4
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Xavier Worthy,Yes,,3.6
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,RJ Harvey,Yes,,4.8
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Bo Nix,Yes,,5.7
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Troy Franklin,Yes,,5.7
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Evan Engram,Yes,,5.8
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Marvin Mims Jr.,Yes,,6
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Patrick Mahomes,Yes,,6.5
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Jalen Royals,Yes,,7
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Denver Defense,Yes,,7.5
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Kansas City Defense,Yes,,7.5
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Noah Gray,Yes,,8
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Emmett Johnson,Yes,,8.5
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Andrew Armstrong,Yes,,10.5
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Cyrus Allen,Yes,,11
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Lil'Jordan Humphrey,Yes,,12
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Adam Trautman,Yes,,13
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Dallen Bentley,Yes,,16
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Nate Adkins,Yes,,16
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Adam Prentice,Yes,,23
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Jared Wiley,Yes,,28
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Jake Briningstool,Yes,,28
+2026,8,fd36215321,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Denver Broncos,Kansas City Chiefs,player_anytime_td,Nikko Remigio,Yes,,31
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_pass_tds,Malik Willis,Over,0.5,1.4651
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_pass_tds,Malik Willis,Under,0.5,2.58
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_pass_yds,Drake Maye,Over,237.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_pass_yds,Drake Maye,Under,237.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_pass_tds,Drake Maye,Over,1.5,1.6849
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_pass_tds,Drake Maye,Under,1.5,2.1
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_pass_yds,Malik Willis,Over,185.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_pass_yds,Malik Willis,Under,185.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Caleb Douglas,Over,3.5,2.24
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Caleb Douglas,Under,3.5,1.6024
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Caleb Douglas,Over,39.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Caleb Douglas,Under,39.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Hunter Henry,Over,3.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Hunter Henry,Under,3.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Malik Washington,Over,40.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Malik Washington,Under,40.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Greg Dulcich,Over,3.5,1.9804
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Greg Dulcich,Under,3.5,1.7692
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Demario Douglas,Over,31.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Demario Douglas,Under,31.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Demario Douglas,Over,2.5,1.6757
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Demario Douglas,Under,2.5,2.12
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,A.J. Brown,Over,56.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,A.J. Brown,Under,56.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Rhamondre Stevenson,Over,2.5,2.16
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Rhamondre Stevenson,Under,2.5,1.6494
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Hunter Henry,Over,39.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Hunter Henry,Under,39.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,A.J. Brown,Over,4.5,1.7692
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,A.J. Brown,Under,4.5,1.9804
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Chris Bell,Over,16.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Chris Bell,Under,16.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Greg Dulcich,Over,28.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Greg Dulcich,Under,28.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Malik Washington,Over,4.5,2.02
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Malik Washington,Under,4.5,1.7353
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Ollie Gordon II,Over,9.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Ollie Gordon II,Under,9.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Ollie Gordon II,Over,1.5,2.24
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Ollie Gordon II,Under,1.5,1.6024
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Chris Bell,Over,1.5,1.8197
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_receptions,Chris Bell,Under,1.5,1.9259
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Rhamondre Stevenson,Over,17.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_reception_yds,Rhamondre Stevenson,Under,17.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Drake Maye,Over,24.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Drake Maye,Under,24.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,TreVeyon Henderson,Over,25.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,TreVeyon Henderson,Under,25.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Ollie Gordon II,Over,60.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Ollie Gordon II,Under,60.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Malik Willis,Over,35.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Malik Willis,Under,35.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Jaylen Wright,Over,16.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Jaylen Wright,Under,16.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Rhamondre Stevenson,Over,46.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_rush_yds,Rhamondre Stevenson,Under,46.5,1.8772
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Rhamondre Stevenson,Yes,,1.8
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Ollie Gordon II,Yes,,2.25
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,A.J. Brown,Yes,,2.25
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Hunter Henry,Yes,,2.85
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Malik Willis,Yes,,3.1
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Demario Douglas,Yes,,3.8
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Drake Maye,Yes,,4
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,TreVeyon Henderson,Yes,,4.2
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Malik Washington,Yes,,4.3
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Caleb Douglas,Yes,,4.9
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Greg Dulcich,Yes,,5
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Efton Chism III,Yes,,5
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Eli Raridon,Yes,,5.4
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Jaylen Wright,Yes,,5.7
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Kyle Williams,Yes,,6.5
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Chris Bell,Yes,,7
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Corey Kiner,Yes,,7
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,New England Defense,Yes,,8
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Miami Defense,Yes,,8.5
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Will Kacmarek,Yes,,12
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Kevin Coleman Jr.,Yes,,13
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Kaytron Allen,Yes,,21
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Tanner Arkin,Yes,,26
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Cameron Latu,Yes,,26
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Jalen Tolbert,Yes,,28
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Jared Wayne,Yes,,28
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Seydou Traore,Yes,,36
+2026,8,fd36215322,2026-11-01T21:26:00.000Z,2026-10-28T15:13:34+00:00,Miami Dolphins,New England Patriots,player_anytime_td,Justin Joly,Yes,,36
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_pass_tds,Caleb Williams,Over,1.5,2.36
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_pass_tds,Caleb Williams,Under,1.5,1.5495
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_pass_yds,Caleb Williams,Over,227.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_pass_yds,Caleb Williams,Under,227.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_pass_yds,Sam Darnold,Over,233.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_pass_yds,Sam Darnold,Under,233.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_pass_tds,Sam Darnold,Over,1.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_pass_tds,Sam Darnold,Under,1.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Jaxon Smith-Njigba,Over,7.5,2.06
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Jaxon Smith-Njigba,Under,7.5,1.7143
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Kalif Raymond,Over,2.5,1.9804
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Kalif Raymond,Under,2.5,1.7692
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Luther Burden III,Over,50.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Luther Burden III,Under,50.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Colston Loveland,Over,42.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Colston Loveland,Under,42.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Jaxon Smith-Njigba,Over,99.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Jaxon Smith-Njigba,Under,99.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Kalif Raymond,Over,22.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Kalif Raymond,Under,22.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Colston Loveland,Over,4.5,2.16
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Colston Loveland,Under,4.5,1.6494
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Rome Odunze,Over,42.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_reception_yds,Rome Odunze,Under,42.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Rome Odunze,Over,3.5,2.24
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Rome Odunze,Under,3.5,1.6024
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Luther Burden III,Over,4.5,2.18
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_receptions,Luther Burden III,Under,4.5,1.6329
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_rush_yds,Sam Darnold,Over,4.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_rush_yds,Sam Darnold,Under,4.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_rush_yds,Caleb Williams,Over,21.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_rush_yds,Caleb Williams,Under,21.5,1.8772
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,D'Andre Swift,Yes,,1.8696
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Jaxon Smith-Njigba,Yes,,1.9091
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,AJ Barner,Yes,,3.1
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Colston Loveland,Yes,,3.4
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Luther Burden III,Yes,,3.4
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Rome Odunze,Yes,,3.5
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Cooper Kupp,Yes,,3.6
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Tory Horton,Yes,,5.1
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Caleb Williams,Yes,,5.7
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Kalif Raymond,Yes,,6.5
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Sam Darnold,Yes,,6.5
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Seattle Defense,Yes,,8
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Chicago Defense,Yes,,8
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Sam Roush,Yes,,9
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Eric Saubert,Yes,,12
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Jahdae Walker,Yes,,21
+2026,8,fd36215323,2026-11-03T01:16:00.000Z,2026-10-28T15:13:34+00:00,Seattle Seahawks,Chicago Bears,player_anytime_td,Nick Kallerup,Yes,,28

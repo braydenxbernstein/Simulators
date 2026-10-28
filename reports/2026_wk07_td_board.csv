@@ -1,0 +1,57 @@
+Kickoff (AZ),Game,Rank,Player,Team,Book odds,Book %,Model %,Model fair odds,EV per $1
+Thu 05:15 PM,NE @ CHI,1,D'Andre Swift,CHI,-165,62.3,59.8,-149,-0.04
+Thu 05:15 PM,NE @ CHI,2,Rhamondre Stevenson,NE,-105,51.2,32.4,+209,-0.367
+Thu 05:15 PM,NE @ CHI,3,A.J. Brown,NE,+140,41.7,28.6,+250,-0.314
+Thu 05:15 PM,NE @ CHI,4,Colston Loveland,CHI,+170,37.0,17.2,+483,-0.537
+Sun 06:30 AM,PIT @ NO,1,Jaylen Warren,PIT,-120,54.5,53.0,-113,-0.029
+Sun 06:30 AM,PIT @ NO,2,Kendre Miller,NO,+155,39.2,35.7,+180,-0.09
+Sun 06:30 AM,PIT @ NO,3,DK Metcalf,PIT,+160,38.5,32.1,+211,-0.164
+Sun 06:30 AM,PIT @ NO,4,Chris Olave,NO,+190,34.5,31.6,+216,-0.082
+Sun 10:00 AM,CIN @ BAL,1,Derrick Henry,BAL,-220,68.8,71.4,-249,0.038
+Sun 10:00 AM,CIN @ BAL,2,Chase Brown,CIN,-105,51.2,44.2,+126,-0.137
+Sun 10:00 AM,CIN @ BAL,3,Ja'Marr Chase,CIN,+110,47.6,35.8,+179,-0.248
+Sun 10:00 AM,CIN @ BAL,4,Tee Higgins,CIN,+155,39.2,24.3,+312,-0.381
+Sun 10:00 AM,CLE @ TEN,1,Tony Pollard,TEN,+115,46.5,30.9,+224,-0.337
+Sun 10:00 AM,CLE @ TEN,2,Harold Fannin Jr.,CLE,+200,33.3,26.3,+280,-0.21
+Sun 10:00 AM,CLE @ TEN,3,Denzel Boston,CLE,+210,32.3,20.7,+383,-0.359
+Sun 10:00 AM,CLE @ TEN,4,KC Concepcion,CLE,+270,27.0,16.6,+502,-0.385
+Sun 10:00 AM,IND @ MIN,1,Jonathan Taylor,IND,-120,54.5,54.9,-122,0.007
+Sun 10:00 AM,IND @ MIN,2,Aaron Jones,MIN,+105,48.8,66.7,-201,0.368
+Sun 10:00 AM,IND @ MIN,3,Justin Jefferson,MIN,+180,35.7,27.8,+259,-0.22
+Sun 10:00 AM,IND @ MIN,4,T.J. Hockenson,MIN,+260,27.8,15.9,+529,-0.428
+Sun 10:00 AM,MIA @ NYJ,1,Braelon Allen,NYJ,-120,54.5,29.7,+236,-0.455
+Sun 10:00 AM,MIA @ NYJ,2,Breece Hall,NYJ,-120,54.5,28.2,+255,-0.483
+Sun 10:00 AM,MIA @ NYJ,3,Garrett Wilson,NYJ,+150,40.0,22.9,+336,-0.427
+Sun 10:00 AM,MIA @ NYJ,4,Ollie Gordon II,MIA,+200,33.3,34.2,+192,0.028
+Sun 10:00 AM,NYG @ HOU,1,Woody Marks,HOU,-120,54.5,39.9,+151,-0.268
+Sun 10:00 AM,NYG @ HOU,2,Nico Collins,HOU,+130,43.5,30.3,+230,-0.303
+Sun 10:00 AM,NYG @ HOU,3,Dalton Schultz,HOU,+210,32.3,10.6,+847,-0.673
+Sun 10:00 AM,NYG @ HOU,4,Isaiah Likely,NYG,+250,28.6,34.4,+191,0.204
+Sun 10:00 AM,SF @ ATL,1,Bijan Robinson,ATL,-250,71.4,62.0,-163,-0.132
+Sun 10:00 AM,SF @ ATL,2,Christian McCaffrey,SF,-250,71.4,64.5,-181,-0.098
+Sun 10:00 AM,SF @ ATL,3,George Kittle,SF,+120,45.5,43.8,+128,-0.037
+Sun 10:00 AM,SF @ ATL,4,Drake London,ATL,+130,43.5,21.5,+364,-0.505
+Sun 10:00 AM,TB @ CAR,1,Chuba Hubbard,CAR,-125,55.6,56.9,-132,0.024
+Sun 10:00 AM,TB @ CAR,2,Bucky Irving,TB,+115,46.5,41.2,+142,-0.113
+Sun 10:00 AM,TB @ CAR,3,Tetairoa McMillan,CAR,+140,41.7,25.1,+299,-0.399
+Sun 10:00 AM,TB @ CAR,4,Jalen Coker,CAR,+175,36.4,24.8,+304,-0.319
+Sun 01:05 PM,DEN @ ARI,1,J.K. Dobbins,DEN,+125,44.4,45.2,+121,0.017
+Sun 01:05 PM,DEN @ ARI,2,Trey McBride,ARI,+130,43.5,36.1,+177,-0.17
+Sun 01:05 PM,DEN @ ARI,3,Tyler Allgeier,ARI,+175,36.4,24.8,+303,-0.318
+Sun 01:05 PM,DEN @ ARI,4,Jaylen Waddle,DEN,+190,34.5,24.0,+317,-0.305
+Sun 01:25 PM,GB @ DET,1,Jahmyr Gibbs,DET,-350,77.8,76.8,-330,-0.013
+Sun 01:25 PM,GB @ DET,2,Amon-Ra St. Brown,DET,-140,58.3,37.2,+169,-0.363
+Sun 01:25 PM,GB @ DET,3,Christian Watson,GB,+130,43.5,37.8,+164,-0.13
+Sun 01:25 PM,GB @ DET,4,Matthew Golden,GB,+155,39.2,35.3,+183,-0.099
+Sun 01:25 PM,LA @ LV,1,Kyren Williams,LA,-150,60.0,60.3,-152,0.005
+Sun 01:25 PM,LA @ LV,2,Puka Nacua,LA,-135,57.4,50.1,-100,-0.129
+Sun 01:25 PM,LA @ LV,3,Ashton Jeanty,LV,-125,55.6,50.2,-101,-0.096
+Sun 01:25 PM,LA @ LV,4,Brock Bowers,LV,+110,47.6,37.2,+169,-0.219
+Sun 05:20 PM,KC @ SEA,1,Kenneth Walker III,KC,-130,56.5,67.1,-204,0.187
+Sun 05:20 PM,KC @ SEA,2,Emanuel Wilson,SEA,+110,47.6,43.2,+132,-0.093
+Sun 05:20 PM,KC @ SEA,3,Jaxon Smith-Njigba,SEA,+120,45.5,39.9,+151,-0.122
+Sun 05:20 PM,KC @ SEA,4,Xavier Worthy,KC,+220,31.2,21.1,+375,-0.326
+Mon 05:15 PM,DAL @ PHI,1,Javonte Williams,DAL,-170,63.0,63.1,-171,0.003
+Mon 05:15 PM,DAL @ PHI,2,Saquon Barkley,PHI,+105,48.8,41.0,+144,-0.16
+Mon 05:15 PM,DAL @ PHI,3,CeeDee Lamb,DAL,+125,44.4,30.3,+229,-0.317
+Mon 05:15 PM,DAL @ PHI,4,George Pickens,DAL,+165,37.7,16.9,+493,-0.553

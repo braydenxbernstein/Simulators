@@ -1,0 +1,165 @@
+season,week,event_id,commence_time,snapshot,home_team,away_team,market,player,name,point,price
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_yds,Dak Prescott,Over,263.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_yds,Dak Prescott,Under,263.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_yds,Jalon Daniels,Over,178.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_yds,Jalon Daniels,Under,178.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_completions,Dak Prescott,Over,22.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_completions,Dak Prescott,Under,22.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_completions,Jalon Daniels,Over,17.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_completions,Jalon Daniels,Under,17.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_tds,Dak Prescott,Over,2.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_tds,Dak Prescott,Under,2.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_tds,Jalon Daniels,Over,0.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_tds,Jalon Daniels,Under,0.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_attempts,Javonte Williams,Over,17.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_attempts,Javonte Williams,Under,17.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_attempts,Bucky Irving,Over,14.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_attempts,Bucky Irving,Under,14.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_attempts,Jalon Daniels,Over,7.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_attempts,Jalon Daniels,Under,7.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Dak Prescott,Over,9.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Dak Prescott,Under,9.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Javonte Williams,Over,72.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Javonte Williams,Under,72.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Kenny Gainwell,Over,11.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Kenny Gainwell,Under,11.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Bucky Irving,Over,56.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Bucky Irving,Under,56.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Jalon Daniels,Over,41.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_rush_yds,Jalon Daniels,Under,41.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Chris Godwin Jr.,Over,29.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Chris Godwin Jr.,Under,29.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,CeeDee Lamb,Over,81.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,CeeDee Lamb,Under,81.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Jake Ferguson,Over,24.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Jake Ferguson,Under,24.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Cade Otton,Over,29.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Cade Otton,Under,29.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Javonte Williams,Over,16.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Javonte Williams,Under,16.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Kenny Gainwell,Over,8.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Kenny Gainwell,Under,8.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,George Pickens,Over,61.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,George Pickens,Under,61.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Emeka Egbuka,Over,30.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Emeka Egbuka,Under,30.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Bucky Irving,Over,13.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Bucky Irving,Under,13.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Tez Johnson,Over,11.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Tez Johnson,Under,11.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Ryan Flournoy,Over,32.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Ryan Flournoy,Under,32.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Ted Hurst III,Over,21.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_reception_yds,Ted Hurst III,Under,21.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Chris Godwin Jr.,Over,3.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Chris Godwin Jr.,Under,3.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,CeeDee Lamb,Over,5.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,CeeDee Lamb,Under,5.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Jake Ferguson,Over,3.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Jake Ferguson,Under,3.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Cade Otton,Over,3.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Cade Otton,Under,3.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Javonte Williams,Over,2.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Javonte Williams,Under,2.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Kenny Gainwell,Over,1.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Kenny Gainwell,Under,1.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,George Pickens,Over,4.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,George Pickens,Under,4.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Emeka Egbuka,Over,2.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Emeka Egbuka,Under,2.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Bucky Irving,Over,2.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Bucky Irving,Under,2.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Ryan Flournoy,Over,3.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_receptions,Ryan Flournoy,Under,3.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_attempts,Dak Prescott,Over,33.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_attempts,Dak Prescott,Under,33.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_attempts,Jalon Daniels,Over,27.5,1.909
+2026,5,espn401872980,2026-10-09T00:15Z,2026-10-05T16:37:52+00:00,Dallas Cowboys,Tampa Bay Buccaneers,player_pass_attempts,Jalon Daniels,Under,27.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_yds,Dak Prescott,Over,266.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_yds,Dak Prescott,Under,266.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_yds,Tanner McKee,Over,205.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_yds,Tanner McKee,Under,205.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_completions,Dak Prescott,Over,24.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_completions,Dak Prescott,Under,24.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_completions,Tanner McKee,Over,20.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_completions,Tanner McKee,Under,20.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_tds,Dak Prescott,Over,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_tds,Dak Prescott,Under,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_tds,Tanner McKee,Over,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_tds,Tanner McKee,Under,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_attempts,Saquon Barkley,Over,15.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_attempts,Saquon Barkley,Under,15.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_attempts,Dameon Pierce,Over,5.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_attempts,Dameon Pierce,Under,5.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_attempts,Javonte Williams,Over,17.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_attempts,Javonte Williams,Under,17.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Dak Prescott,Over,9.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Dak Prescott,Under,9.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Saquon Barkley,Over,65.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Saquon Barkley,Under,65.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Dameon Pierce,Over,19.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Dameon Pierce,Under,19.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Javonte Williams,Over,64.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Javonte Williams,Under,64.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Tyler Goodson,Over,12.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Tyler Goodson,Under,12.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Tanner McKee,Over,3.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_rush_yds,Tanner McKee,Under,3.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Dallas Goedert,Over,50.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Dallas Goedert,Under,50.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Saquon Barkley,Over,13.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Saquon Barkley,Under,13.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Marquise Brown,Over,8.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Marquise Brown,Under,8.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,CeeDee Lamb,Over,80.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,CeeDee Lamb,Under,80.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Jake Ferguson,Over,18.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Jake Ferguson,Under,18.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Dameon Pierce,Over,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Dameon Pierce,Under,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Brevyn Spann-Ford,Over,13.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Brevyn Spann-Ford,Under,13.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Javonte Williams,Over,12.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Javonte Williams,Under,12.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Elijah Moore,Over,9.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Elijah Moore,Under,9.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,George Pickens,Over,63.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,George Pickens,Under,63.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Eli Stowers,Over,6.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Eli Stowers,Under,6.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Darius Cooper,Over,39.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Darius Cooper,Under,39.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Makai Lemon,Over,40.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Makai Lemon,Under,40.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Ryan Flournoy,Over,35.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_reception_yds,Ryan Flournoy,Under,35.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Dallas Goedert,Over,5.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Dallas Goedert,Under,5.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Saquon Barkley,Over,2.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Saquon Barkley,Under,2.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Marquise Brown,Over,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Marquise Brown,Under,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,CeeDee Lamb,Over,6.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,CeeDee Lamb,Under,6.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Jake Ferguson,Over,2.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Jake Ferguson,Under,2.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Brevyn Spann-Ford,Over,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Brevyn Spann-Ford,Under,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Javonte Williams,Over,2.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Javonte Williams,Under,2.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Elijah Moore,Over,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Elijah Moore,Under,1.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,George Pickens,Over,4.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,George Pickens,Under,4.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Eli Stowers,Over,0.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Eli Stowers,Under,0.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Darius Cooper,Over,3.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Darius Cooper,Under,3.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Makai Lemon,Over,4.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Makai Lemon,Under,4.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Ryan Flournoy,Over,3.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_receptions,Ryan Flournoy,Under,3.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_attempts,Dak Prescott,Over,35.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_attempts,Dak Prescott,Under,35.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_attempts,Tanner McKee,Over,34.5,1.909
+2026,7,espn401873009,2026-10-27T00:15Z,2026-10-27T00:25:43+00:00,Philadelphia Eagles,Dallas Cowboys,player_pass_attempts,Tanner McKee,Under,34.5,1.909
